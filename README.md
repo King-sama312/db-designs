@@ -1,4 +1,6 @@
 # thrift-store-db-design
 
-Here is a simple Thrift Store db design:
-<img width="2414" height="1532" alt="thrift-store-db-design" src="https://github.com/user-attachments/assets/1a8da214-8450-4265-a342-e7b7005922d6" />
+Here is a simple Thrift
+<img width="2415" height="1532" alt="thrift-store-db-design-colored" src="https://github.com/user-attachments/assets/9f0faa43-82d1-4ed3-b912-d50392882a98" />
+ Store db design:
+
